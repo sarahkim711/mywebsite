@@ -64,7 +64,7 @@ aYspeed= aYspeed * -1;
 // c.position(windowWidth/3, windowHeight/3);
 
 textSize(32);
-text('Hello! This website is still under construction :D', windowWidth/2, 30);
+text('Hello! This website is still under construction :D', windowWidth/3, windowHeight/2);
 fill(255);
 stroke(10);
 strokeWeight(5);
