@@ -47,23 +47,23 @@ strokeWeight(30);
 // stroke(100,200,300);
 
 
-// let type = 'Hello World!...compiling...';
+let type = 'Hello World!...compiling...';
 // fill(50);
 // text(type, 10, 10, 70, 80);
 
-let a = createA('https://sarahkim711.github.io/iampolygon/', 'I Am Polygon');
-a.position(windowWidth/4, windowHeight/4);
+// let a = createA('https://sarahkim711.github.io/iampolygon/', 'I Am Polygon');
+// a.position(windowWidth/4, windowHeight/4);
 
-if (a > windowHeight || a < 0){
-aYspeed= aYspeed * -1;
-}
+// if (a > windowHeight || a < 0){
+// aYspeed= aYspeed * -1;
+// }
 
 
-let b = createA('https://sarahkim711.github.io/p5jsProject/', 'MyAdPreference();');
-b.position(windowWidth/2, windowHeight/2);
+// let b = createA('https://sarahkim711.github.io/p5jsProject/', 'MyAdPreference();');
+// b.position(windowWidth/2, windowHeight/2);
 
-let c = createA('https://sites.google.com/artic.edu/vr-so-far/jacking-in', '...All my VR works...');
-c.position(windowWidth/3, windowHeight/3);
+// let c = createA('https://sites.google.com/artic.edu/vr-so-far/jacking-in', '...All my VR works...');
+// c.position(windowWidth/3, windowHeight/3);
 
 // point(mouseX, mouseY);
 // point(pointX, pointY);
