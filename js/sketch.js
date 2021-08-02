@@ -48,8 +48,8 @@ strokeWeight(30);
 
 
 let type = 'Hello World!...compiling...';
-// fill(50);
-// text(type, 10, 10, 70, 80);
+fill(50);
+text(type, 10, 10, 70, 80);
 
 // let a = createA('https://sarahkim711.github.io/iampolygon/', 'I Am Polygon');
 // a.position(windowWidth/4, windowHeight/4);
